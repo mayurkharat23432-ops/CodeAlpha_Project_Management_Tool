@@ -1,0 +1,11 @@
+{
+  "users": [],
+  "projects": [
+    {"id":1001,"name":"Website Launch","description":"Plan and deliver the company website","owner":"Demo Team","createdAt":"2026-01-01T00:00:00.000Z"}
+  ],
+  "tasks": [
+    {"id":2001,"title":"Design homepage","description":"Create responsive landing page layout","projectId":1001,"assignee":"Alex","dueDate":"","status":"todo","comments":[],"createdAt":"2026-01-01T00:00:00.000Z"},
+    {"id":2002,"title":"Build API routes","description":"Implement project and task endpoints","projectId":1001,"assignee":"Sam","dueDate":"","status":"doing","comments":[],"createdAt":"2026-01-01T00:00:00.000Z"},
+    {"id":2003,"title":"Review content","description":"Check text and spelling","projectId":1001,"assignee":"Jordan","dueDate":"","status":"done","comments":[],"createdAt":"2026-01-01T00:00:00.000Z"}
+  ]
+}
